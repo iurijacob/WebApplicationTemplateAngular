@@ -5,8 +5,8 @@ It uses Clarity Design framework to style pages.
 
 This template is still in deep development, so it's just barely functional.
 
-Many thanks to (Jason Watmore)[https://github.com/cornflourblue] for providing the excellent 
-(angular-6-registration-login-example)[https://github.com/cornflourblue/angular-6-registration-login-example], 
+Many thanks to [Jason Watmore](https://github.com/cornflourblue) for providing the excellent 
+[angular-6-registration-login-example](https://github.com/cornflourblue/angular-6-registration-login-example), 
 which code I have fully updated and adapted to this template.
 
 The main features (not fully available by the time of this document) are:
