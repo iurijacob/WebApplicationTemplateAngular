@@ -1,4 +1,4 @@
-﻿* .Net Core2.2 / Angular 7 / Clarity Design Template
+# .Net Core2.2 / Angular 7 / Clarity Design Template
 
 This is a solution template meant to be used in fast start of .Net Core Angular based apps. 
 It uses Clarity Design framework to style pages.
